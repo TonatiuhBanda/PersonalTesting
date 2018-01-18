@@ -1,0 +1,6 @@
+Hola mundo
+Esto es una prueba
+
+Funcionamiento de Git
+
+Corrección de líneas
