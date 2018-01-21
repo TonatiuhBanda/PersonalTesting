@@ -1,11 +1,15 @@
 Hola mundo
 Esto es una prueba
 
+Esta es una prueba
 Funcionamiento de Git
-Linea de GIT
+Barra de pruebas 5
 
 Corrección de líneas
 
+
+segundo cambio
+
 Agregando otra linea
 
-Se coloca linea número 6
+Se coloca linea número 8
