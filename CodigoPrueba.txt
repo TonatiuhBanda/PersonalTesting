@@ -2,6 +2,7 @@ Hola mundo
 Esto es una prueba
 
 Funcionamiento de Git
+Linea de GIT
 
 Corrección de líneas
 
