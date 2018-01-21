@@ -6,3 +6,5 @@ Funcionamiento de Git
 Corrección de líneas
 
 Agregando otra linea
+
+Se coloca linea número 6
