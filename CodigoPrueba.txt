@@ -10,7 +10,7 @@ Barra de pruebas 5
 Corrección de líneas
 
 
-segundo cambio
+Borrando segundo cambio
 
 Agregando otra linea
 
@@ -19,3 +19,5 @@ Se coloca linea número 8
 Agregando otra línea
 
 Se agrega línea en rama1
+
+Linea 2 en rama1
